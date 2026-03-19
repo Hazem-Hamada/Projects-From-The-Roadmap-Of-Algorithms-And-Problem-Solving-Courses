@@ -6,7 +6,7 @@ This is my most advanced project to date, marking the completion of **Course 07*
 ---
 
 ## 🛠️ View Source Code
-📄 **[Bank System Extension.cpp](./Project%202%20-%20Bank%20System%20Extension.cpp)**
+📄 **[Bank System Extension.cpp](./Project-2-Bank-System-Extension.cpp)**
 
 ---
 
