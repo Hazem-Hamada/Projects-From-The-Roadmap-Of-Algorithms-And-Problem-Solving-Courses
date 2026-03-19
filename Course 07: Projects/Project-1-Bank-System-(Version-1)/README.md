@@ -6,7 +6,7 @@ This project is a major milestone in **Course 07** of my software engineering ro
 ---
 
 ## 🛠️ View Source Code
-📄 **[Bank System (Version 1.0).cpp](./Project%201%20-%20Bank%20System%20(Version%201).cpp)**
+📄 **[Bank System (Version 1.0).cpp](./Project-1-Bank-System-(Version-1).cpp)**
 
 ---
 
