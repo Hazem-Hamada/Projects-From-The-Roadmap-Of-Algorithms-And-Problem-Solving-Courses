@@ -37,14 +37,14 @@ This project isn't just a game; it's a comprehensive exercise equivalent to solv
 
 ### ⚙️ 1. Quiz Configuration
 *Users can select the number of questions, difficulty (Easy to Mix), and Operation type.*
-![Quiz Setup](<img width="1951" height="1129" alt="Photo Start Math Game" src="https://github.com/user-attachments/assets/96cd66d7-bd7e-4447-ab14-d20cf359797e" />)
+![Quiz Setup](https://github.com/user-attachments/assets/96cd66d7-bd7e-4447-ab14-d20cf359797e)
 
 ### ✍️ 2. Interactive Gameplay
 *Real-time feedback: The screen turns **Green** for correct answers and **Red** with a beep for wrong ones.*
-![Gameplay Screenshot](<img width="1951" height="1123" alt="Photo Math Game End" src="https://github.com/user-attachments/assets/f131d030-e31d-48d0-abcd-b04ea913ec3d" />)
+![Gameplay Screenshot](https://github.com/user-attachments/assets/f131d030-e31d-48d0-abcd-b04ea913ec3d)
 
 ### 🏆 3. How Many Programming Problems This Math Quiz Game Project Covers?
-![Final Results Screenshot](<img width="907" height="849" alt="image" src="https://github.com/user-attachments/assets/64314d85-8549-483f-8b68-e8a4e5884893" />)
+![Final Results Screenshot](https://github.com/user-attachments/assets/64314d85-8549-483f-8b68-e8a4e5884893)
 
 ---
 
