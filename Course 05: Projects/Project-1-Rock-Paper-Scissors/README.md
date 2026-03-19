@@ -36,14 +36,14 @@ This project is equivalent to solving **20 distinct programming challenges**. He
 ## 📸 Project Screenshots
 
 ### 🕹️ Gameplay & Round Results
-![Gameplay Screenshot](<img width="1841" height="1023" alt="Photo RockPaperScissors Game Start" src="https://github.com/user-attachments/assets/8d799c1d-2d00-421e-adee-b9abd45d6c66" />)
+![Gameplay Screenshot](https://github.com/user-attachments/assets/8d799c1d-2d00-421e-adee-b9abd45d6c66)
 
 ### 🏆 Final Game Results
 *A summary of all rounds, tracking wins, draws, and the ultimate winner.*
-![Final Results Screenshot](<img width="1845" height="1027" alt="Photo RockPaperScissors Game End" src="https://github.com/user-attachments/assets/c1eb5565-9d5e-421f-b7b3-b8d8f5288870" />)
+![Final Results Screenshot](https://github.com/user-attachments/assets/c1eb5565-9d5e-421f-b7b3-b8d8f5288870)
 
 ### 🏆 How Many Programming Problems This Rock-Paper-Scissors Project Covers?
-![Final Results Screenshot](<img width="448" height="524" alt="PJKg1vClRpKUWrnWArzQ_2" src="https://github.com/user-attachments/assets/ec360c43-abeb-4e22-85c9-cfb8689b47c2" />)
+![Final Results Screenshot](https://github.com/user-attachments/assets/ec360c43-abeb-4e22-85c9-cfb8689b47c2)
 
 ---
 
