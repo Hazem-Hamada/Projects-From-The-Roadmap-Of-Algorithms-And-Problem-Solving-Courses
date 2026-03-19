@@ -67,4 +67,4 @@ This project is a living application. In the upcoming phases of my roadmap, it w
 ---
 ## 👨‍💻 Developed By
 **Eng. Hazem Hamada**
-🤝 Connect with me on LinkedIn: Hazem Hamada [https://www.linkedin.com/in/hazem-hamada-emara/]
+🤝 Connect with me on LinkedIn: [https://www.linkedin.com/in/hazem-hamada-emara/]
