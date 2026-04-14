@@ -2,6 +2,13 @@
 
 A terminal-based banking application developed in C++ as part of my Software Engineering roadmap. This version focuses on adding a security layer, user authentication, and a permission system using bitwise operations.
 
+---
+
+## 🛠️ View Source Code
+📄 **[Bank System Extension.cpp](https://github.com/Hazem-Hamada/Projects-From-The-Roadmap-Of-Algorithms-And-Problem-Solving-Courses/blob/main/Course%2008%3A%20Projects/Project%201%20-%20Bank%20Extension%20Version-3/Project-1-Bank-System-Extension-(Version-3).cpp)**
+
+---
+
 ## 📌 Project Overview
 The system allows managing both bank clients and system users. It ensures that only authorized users can access specific modules (like Transactions or User Management) based on a calculated permission integer stored in the database.
 
