@@ -21,19 +21,19 @@ The system allows managing both bank clients and system users. It ensures that o
 ## 📸 Project Screenshots
 
 1. **Login Gateway**
-![Login Screen](Insert_Image_Link_1_Here)
+![Login Screen](<img width="2131" height="1275" alt="Login Screen" src="https://github.com/user-attachments/assets/3603c7ca-4140-4a12-a55f-8d69b8b6982a" />)
 
 2. **Main Menu with User Permissions**
-![Main Menu](Insert_Image_Link_2_Here)
+![Main Menu](<img width="2135" height="1279" alt="New Main Menu Options" src="https://github.com/user-attachments/assets/627ee559-7d76-460a-8d84-1d8f51cd1543" />)
 
 3. **Manage Users Module**
-![Manage Users](Insert_Image_Link_3_Here)
+![Manage Users](<img width="2123" height="1273" alt="Manage Users Screen Options" src="https://github.com/user-attachments/assets/f92f05f5-5b18-474c-ac5a-a38b8a386f75" />)
 
-4. **Assigning Permissions (Bitwise Selection)**
-![Permissions Logic](Insert_Image_Link_4_Here)
+4. **List Users Screen**
+![List Users Screen](<img width="2129" height="1277" alt="List Users Option" src="https://github.com/user-attachments/assets/1edc8f31-901c-4b30-a985-6ef606e31f54" />)
 
 5. **Access Denied Protocol**
-![Access Denied](Insert_Image_Link_5_Here)
+![Access Denied](<img width="2133" height="1275" alt="Access Denied Screen" src="https://github.com/user-attachments/assets/6363b178-9d84-4985-90c9-93fc6673734e" />)
 
 ## 💻 Tech Stack
 * **Language:** C++
