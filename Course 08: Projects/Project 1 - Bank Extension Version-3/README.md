@@ -1,6 +1,6 @@
 # Bank System (Version 3.0) - User Management & Permissions
 
-A terminal-based banking application developed in C++ as part of my Software Engineering roadmap. This version focuses on adding a security layer, user authentication, and a permission system using bitwise operations.
+A terminal-based banking application developed in C++ as part of my Software Engineering roadmap from Course 08. This version focuses on adding a security layer, user authentication, and a permission system using bitwise operations.
 
 ---
 
