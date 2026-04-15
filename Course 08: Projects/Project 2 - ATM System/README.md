@@ -8,7 +8,7 @@ This project represents the completion of **Course 08** in my Software Engineeri
 
 ###🛠️ View Source Code
 
-**##📄 [`ATM System.cpp`](https://github.com/Hazem-Hamada/Projects-From-The-Roadmap-Of-Algorithms-And-Problem-Solving-Courses/blob/main/Course%2008%3A%20Projects/Project%202%20-%20ATM%20System/Project%202%20-%20ATM%20System.cpp)**
+##📄 [`ATM System.cpp`](https://github.com/Hazem-Hamada/Projects-From-The-Roadmap-Of-Algorithms-And-Problem-Solving-Courses/blob/main/Course%2008%3A%20Projects/Project%202%20-%20ATM%20System/Project%202%20-%20ATM%20System.cpp)
 
 
 ---
@@ -30,22 +30,25 @@ The ATM System is designed to simulate a real-world cash machine. It requires cl
 ## 📸 Project Screenshots
 
 ### 1. Secure Authentication (Login Screen)
-<img width="800" alt="ATM Login Screen" src="INSERT_IMAGE_LINK_1_HERE"/>
+<img width="800" alt="ATM Login Screen" src="<img width="2043" height="1179" alt="1" src="https://github.com/user-attachments/assets/b947dbdc-e28d-4f6f-942f-5c05673b72b6"/>
 
 ### 2. Main Dashboard (Interactive Menu)
-<img width="800" alt="Main Menu 5 Options" src="INSERT_IMAGE_LINK_2_HERE"/>
+<img width="800" alt="Main Menu 5 Options" src="<img width="2031" height="1171" alt="2" src="https://github.com/user-attachments/assets/38d460aa-5084-487f-bcfa-2e01e8162efa"/>
 
 ### 3. Quick Withdraw Interface
-<img width="800" alt="Quick Withdraw Screen" src="INSERT_IMAGE_LINK_3_HERE"/>
+<img width="800" alt="Quick Withdraw Screen" src="<img width="2033" height="1177" alt="3" src="https://github.com/user-attachments/assets/0ca7a5e7-7f95-47dd-8a0f-d29eab0b4236"/>
 
 ### 4. Normal Withdraw (With Validation Logic)
-<img width="800" alt="Normal Withdraw Screen" src="INSERT_IMAGE_LINK_4_HERE"/>
+<img width="800" alt="Normal Withdraw Screen" src="<img width="2035" height="1171" alt="4" src="https://github.com/user-attachments/assets/8a2c9fa5-5a6e-443e-9d1e-b1795d10ea4a"/>
+
 
 ### 5. Deposit Operation
-<img width="800" alt="Deposit Screen" src="INSERT_IMAGE_LINK_5_HERE"/>
+<img width="800" alt="Deposit Screen" src="<img width="2027" height="1177" alt="5" src="https://github.com/user-attachments/assets/df770721-1d06-4f39-849c-98408816fd59"/>
+
 
 ### 6. Real-Time Balance Check
-<img width="800" alt="Check Balance Screen" src="INSERT_IMAGE_LINK_6_HERE"/>
+<img width="800" alt="Check Balance Screen" src="<img width="2047" height="1187" alt="6" src="https://github.com/user-attachments/assets/f82b1e09-68e8-4cd8-978c-c4f1485995f5"/>
+
 
 ---
 
