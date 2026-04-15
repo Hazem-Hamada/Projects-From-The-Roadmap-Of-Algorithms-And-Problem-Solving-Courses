@@ -20,7 +20,7 @@ This repository serves as a practical gallery for the core projects developed th
 ### 🏧 [Course 08] Algorithms & Problem-Solving Level 4
 *Focus: Security Layers, Role-Based Access, and User Session Management.*
 * **[Bank System (Version 3)](./Course%2008:%20Projects/Project-1-Bank-Extension-Version-3/):** A secure multi-user management system featuring authentication and Bitwise-based permission control.
-* **[ATM System](./Course%2008:%20Projects/Project-2-ATM-System/):** A client-facing simulation focusing on session handling, real-time balance updates, and secure financial transactions.
+* **[ATM System](https://github.com/Hazem-Hamada/Projects-From-The-Roadmap-Of-Algorithms-And-Problem-Solving-Courses/tree/main/Course%2008%3A%20Projects/Project%202%20-%20ATM%20System):** A client-facing simulation focusing on session handling, real-time balance updates, and secure financial transactions.
 
 ---
 
