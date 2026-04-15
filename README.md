@@ -17,9 +17,11 @@ This repository serves as a practical gallery for the core projects developed th
 * **[Bank System (Version 1)](./Course%2007:%20Projects/Project-1-Bank-System-(Version-1)/):** A complete CRUD application for managing client records using file-based storage.
 * **[Bank System Extension (Version 2](./Course%2007:%20Projects/Project-2-Bank-System-Extension-(Version-2)/):** An upgraded version introducing transaction modules and user permission systems.
 
-### 🛡️ [Course 08] Algorithms & Problem-Solving Level 4
-*Focus: Permissions management and login handle data, Manage Users.*
-* **[Bank System (Version 3)](https://github.com/Hazem-Hamada/Projects-From-The-Roadmap-Of-Algorithms-And-Problem-Solving-Courses/tree/main/Course%2008%3A%20Projects/Project%201%20-%20Bank%20Extension%20Version-3):** A complete CRUD application for managing users records using file-based storage and manage permissions.
+### 🏧 [Course 08] Algorithms & Problem-Solving Level 4
+*Focus: Security Layers, Role-Based Access, and User Session Management.*
+* **[Bank System (Version 3)](./Course%2008:%20Projects/Project-1-Bank-Extension-Version-3/):** A secure multi-user management system featuring authentication and Bitwise-based permission control.
+* **[ATM System](./Course%2008:%20Projects/Project-2-ATM-System/):** A client-facing simulation focusing on session handling, real-time balance updates, and secure financial transactions.
+
 ---
 
 ## 🛠️ Technical Skills Demonstrated
