@@ -34,7 +34,7 @@ This repository serves as a practical gallery for the core projects developed th
 
 ## 🔗 Related Repositories
 * **[Main Roadmap Repo](https://github.com/Hazem-Hamada/Software-Engineering-Foundations-Roadmap):** My comprehensive progress through the 27-course roadmap.
-* **[Problem Solving Solutions](https://github.com/Hazem-Hamada/Algorithms-Problem-Solving-From-Foundation-Roadmap):** 150+ solved algorithmic challenges.
+* **[Problem Solving Solutions](https://github.com/Hazem-Hamada/Algorithms-Problem-Solving-From-Foundation-Roadmap):** 215+ solved algorithmic challenges.
 
 ---
 ## 👤 Connect with Me
