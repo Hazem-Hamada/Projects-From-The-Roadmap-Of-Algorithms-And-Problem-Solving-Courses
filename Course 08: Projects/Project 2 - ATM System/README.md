@@ -55,5 +55,5 @@ The ATM System is designed to simulate a real-world cash machine. It requires cl
 * **Concepts:** Session State Management, File I/O (Read/Overwrite), Vector Manipulation, Type Casting (`stod`, `to_string`).
 
 ---
-👨‍💻 **Developed By** **Eng. Hazem Hamada** 🤝 Connect with me on LinkedIn: 
-##[www.linkedin.com/in/hazem-hamada-emara](https://www.linkedin.com/in/hazem-hamada-emara)
+👨‍💻 **Developed By** **Eng. Hazem Hamada** 🤝 Connect with me on LinkedIn:
+[www.linkedin.com/in/hazem-hamada-emara](https://www.linkedin.com/in/hazem-hamada-emara)
